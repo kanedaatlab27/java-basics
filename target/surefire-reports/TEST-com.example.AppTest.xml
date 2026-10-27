@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.127" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.064" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="JP"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-25.0.4.101-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\kane0\AppData\Local\Temp\surefire11215788642241656906\surefirebooter3033333629600910452.jar C:\Users\kane0\AppData\Local\Temp\surefire11215788642241656906 2026-10-23T17-44-29_384-jvmRun1 surefire15036821931724191004tmp surefire_09863081117346033901tmp"/>
+    <property name="sun.java.command" value="C:\Users\kane0\AppData\Local\Temp\surefire10503171212921932751\surefirebooter9316153825088787375.jar C:\Users\kane0\AppData\Local\Temp\surefire10503171212921932751 2026-10-26T21-02-26_114-jvmRun1 surefire663489219666029729tmp surefire_05707515706268420867tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\workspace\java-basics\target\test-classes;C:\workspace\java-basics\target\classes;C:\Users\kane0\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\kane0\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\kane0\AppData\Local\Temp\surefire11215788642241656906\surefirebooter3033333629600910452.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\kane0\AppData\Local\Temp\surefire10503171212921932751\surefirebooter9316153825088787375.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25.0.4.1+1-LTS"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.example.AppTest" time="0.009"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.example.AppTest" time="0.006"/>
 </testsuite>
